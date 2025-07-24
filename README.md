@@ -15,6 +15,8 @@
 
 Technology used:
 HTML5
+
 CSS3 (Flexbox, Responsive Media Queries)
+
 JavaScript (Vanilla JS for smooth scrolling)
 
